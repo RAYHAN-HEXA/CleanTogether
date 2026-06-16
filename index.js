@@ -190,5 +190,4 @@ async function run(req, res) {
   }
 }
 
-module.exports = app;
-module.exports.run = run;
+module.exports = run;
